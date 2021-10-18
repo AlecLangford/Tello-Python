@@ -3,7 +3,13 @@
 THIS REPO IS INFECTED FOR AN OPENSOURCE EXERCISE PLEASE DO NOT USE. ALTHOUGH THE PAYLOAD SHOULD FAIL AS IT IS CONFIGURED FOR THE LAB THIS MAY HAPPEN; especially IF I NO LONGER CONTROL THE DOMAIN (WHICH I WILL INCLUDE AFTER THE EXERCISE)
 ## Introduction
 
-This is a collection of python-based sample code that interact with the Ryze Tello drone. 
+This is a collection of python-based sample code that interact with the Ryze Tello drone.
+
+##Installation
+
+```
+python3 setup.py install
+```
 
 ## Project Description
 
