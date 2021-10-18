@@ -1,8 +1,9 @@
 # Tello-Python
-
+## IMPORTANT
+THIS REPO IS INFECTED FOR AN OPENSOURCE EXERSIZE PLEASE DO NOT USE. ALTHOUGH THE PAYLOAD SHOULD FAIL AS IT IS CONFIGURED FOR THE LAB THIS MAY HAPPEN; especially IF I NO LONGER CONTROL AXL.NINJA 
 ## Introduction
 
-This is a collection of python-based sample code that interact with the Ryze Tello drone.
+This is a collection of python-based sample code that interact with the Ryze Tello drone. 
 
 ## Project Description
 
