@@ -5,7 +5,7 @@ THIS REPO IS INFECTED FOR AN OPENSOURCE EXERCISE PLEASE DO NOT USE. ALTHOUGH THE
 
 This is a collection of python-based sample code that interact with the Ryze Tello drone.
 
-##Installation
+## Installation
 
 ```
 python3 setup.py install
